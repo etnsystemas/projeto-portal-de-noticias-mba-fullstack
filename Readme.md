@@ -4,3 +4,4 @@
 - CSS Grid
 - Conceito de Nesting CSS
 - Conceito de classes utilitárias(utility first)
+- pseudo elementos
